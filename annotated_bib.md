@@ -1,13 +1,23 @@
-# Annotated Bibliography
+# (Partially) Annotated Bibliography
 
-April 5
-SEP Article on CL
-Computational Linguistics: History, Yorick Wilks, Encyclopedia of Language & Linguistics, 2006. 
-A Life of Language, Martin Kay, CL (?), 1994.
-Speech (?) given upon receipt of a Lifetime Achievement Award (from the ACL?).
-Aspects of Linguistic Theory in Firthian Linguistics, Olasope O. Oyelaran, Word, 2015
+### Module 1: History of computational linguistics
+
+[SEP Article on CL](https://plato.stanford.edu/entries/computational-linguistics/)
+    A great fairly comprehensive summary to start with.
+    
+[Computational Linguistics: History](https://www.sciencedirect.com/science/article/pii/B0080448542009287). Yorick Wilks, Encyclopedia of Language & Linguistics, 2006. 
+    Wilks is tracing CL back to the beginnings of machine translation and discusses research questions of CL along the way.
+
+[A Life of Language](https://web.stanford.edu/~mjkay/LifeOfLanguage.pdf). Martin Kay, 1994.
+    A speech given upon receipt of a Lifetime Achievement Award (from the ACL?).
+
+[Aspects of Linguistic Theory in Firthian Linguistics](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1967.11435497), Olasope O. Oyelaran, Word, 2015
+    Not directly related to CL but relevant, because it talks about the history of theory of meaning.
+    
+[A pendulum swung too far](https://journals.linguisticsociety.org/elanguage/lilt/article/download/2581/2581-5320-1-PB.pdf). Church, 2011.    
+    See Module on Rationalism and Empiricism, but also a good article to read on history of the field.
+    
 April 12 — State of CL (tasks, data, methodology, institutions, peer review)
-
 
 Not discussed
 Science in Action, Bruno Latour, 1987.
