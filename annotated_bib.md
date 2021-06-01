@@ -38,38 +38,36 @@
 
    * This paper takes an AI-driven perspective on CL. Schlangen argues that many goals of computational linguistics are inherently tied to cognitive science theories---because arguably, the main goals of CL have to do with modeling language processing faculties and reasoning/behavioral issues. The conclusion is that working with linguistic and cognitive science theories more should make the argument in CL research generally more explicit.
 
-Julian — empiricism, tasks, data (slides)
+### Module 3: Evolution of methodologies
 
-The Body Keeps the Score, Bessel van der Kolk, 2014.
-The book’s primary content is on van der Kolk’s approach to trauma healing, which integrates physiological and psychological factors.
+* [Julian Michael's presentation](https://docs.google.com/presentation/d/1bMmXlFlSlZqyhD05oBoIkBGqH_zlDxBoCRlZowyrS0M/edit)
+
+* [*The Body Keeps the Score*](https://www.dropbox.com/s/d7zwqgmu93xe74e/Bessel%20van%20der%20Kolk%20MD%20-%20The%20Body%20Keeps%20the%20Score_%20Brain%2C%20Mind%2C%20and%20Body%20in%20the%20Healing%20of%20Trauma-Viking%20Adult%20%282014%29.pdf?dl=0). Bessel van der Kolk, 2014.
+    * The book’s primary content is on van der Kolk’s approach to trauma healing, which integrates physiological and psychological factors.
 In the introduction, van der Kolk describes what he calls the “pharmacological revolution,” which was a sea change in how medical practice (and society) regards and treats mental illness, primarily brought about by the advent of powerful psychiatric drugs. What I found very interesting was how (I think) the advantages and pitfalls of psychiatric drugs and the social and scientific changes they wrought parallel very strongly with those of Deep Learning.
 
-
-Social Psychology and Science: Lessons from Solomon Asch, Paul Rozin, Personality and Social Psychology Review, 2001.
-Presents a methodological critique of social psychology, focusing on its overriding insistence on hypothesis testing and rigorous statistics, which are incongruous with its lack of coherent model systems which would allow statistically rigorous conclusions to generalize. Once again, I feel the parallels to NLP/CL are palpable. Rozin provides a brief diagnosis in terms of status marginality as social psychology exists on the margins of other, more accepted sciences, and suggests more exploratory and qualitative work based on informed intuition. (These comments may also apply to NLP/CL.)
-
-
-The Generalizability Crisis, Tal Yarkoni, Behavioral and Brain Sciences, 2020 (preprint 2019).
-Gives a detailed and thorough account of some of the problems underlying typical statistical technique in the practice of psychology research. These critiques touch both on the pitfalls of the data modeling culture (remarked on by Breiman, and later Norvig — see April 19 refs) and the exaggerated empiricism of psychology research critiqued by Rozin (above).
-
-A Scalable Approach to Reducing Gender Bias in Google Translate, 2020.
-This is the latest in a series of blog posts (you can follow links to previous ones) describing Google’s approach to handling gender-ambiguous translation problems. I give this as an example of a way of interrogating the nature of a task to make scientific progress in NLP. (I couldn’t find a proper paper describing the method; not sure if anything beyond these blog posts are published.)
+* [Social Psychology and Science: Lessons from Solomon Asch, Paul Rozin](https://journals.sagepub.com/doi/10.1207/S15327957PSPR0501_1). Personality and Social Psychology Review, 2001.
+    * Presents a methodological critique of social psychology, focusing on its overriding insistence on hypothesis testing and rigorous statistics, which are incongruous with its lack of coherent model systems which would allow statistically rigorous conclusions to generalize. Once again, I feel the parallels to NLP/CL are palpable. Rozin provides a brief diagnosis in terms of status marginality as social psychology exists on the margins of other, more accepted sciences, and suggests more exploratory and qualitative work based on informed intuition. (These comments may also apply to NLP/CL.)
 
 
-April 19 — Continuation of Apr 12
+* [The Generalizability Crisis](https://psyarxiv.com/jqw35). Tal Yarkoni, Behavioral and Brain Sciences, 2020 (preprint 2019).
+    * Gives a detailed and thorough account of some of the problems underlying typical statistical technique in the practice of psychology research. These critiques touch both on the pitfalls of the data modeling culture (remarked on by Breiman, and later Norvig — see April 19 refs) and the exaggerated empiricism of psychology research critiqued by Rozin (above).
 
-Julian — philosophical foundations (will add more + notes soon)
-On Chomsky and the Two Cultures of Statistical Learning, Peter Norvig, 2011.
-Written in response to comments where Chomsky derided CL/NLP/AI for not providing scientific insight, and suggested that much of the work in the field counts either as failure or a “novel” definition of success which cares only about success of a model on held-out data. Norvig provides a defense of this notion of success, and attributes Chomsky’s view essentially to the “data modeling culture” side of Breiman’s “two cultures” of statistical modeling (below), which assumes a simple model of reality and relies on the theorist to choose it correctly, rather than assuming a complex model of reality and challenges the theorist to provide generalizable explanations (...this may not be the best pithy explanation of the differences; just read it directly). He attributes to Chomsky a sort of naive “Platonism” in opposition to his own position, which I would give the name “Behavioralism.” In my view, Norvig’s view inherits from the rejection of the accessibility of metaphysical claims in science that — frankly — underpins much of modern philosophy, including views of the Skeptics, Empiricists (e.g. David Hume), Pragmatists (e.g. William James), and even some Rationalists (at least Kant), as well as philosophers of science (including at least Karl Popper) and, last but not least, Alan Turing in his own arguments (1950) which formed the foundation of AI. 
+* [A Scalable Approach to Reducing Gender Bias in Google Translate](https://ai.googleblog.com/2020/04/a-scalable-approach-to-reducing-gender.html), 2020.
+    * This is the latest in a series of blog posts (you can follow links to previous ones) describing Google’s approach to handling gender-ambiguous translation problems. I give this as an example of a way of interrogating the nature of a task to make scientific progress in NLP. (I couldn’t find a proper paper describing the method; not sure if anything beyond these blog posts are published.)
 
-Statistical Modeling: the Two Cultures, Leo Breiman, Statistical Science, 2001.
-Proposes the “two cultures” Norvig references: the data modeling and algorithmic modeling cultures. Data modeling constrains itself to the assumption that the model is correct (e.g., as with linear regression). Breiman critiques the approach as being an obstacle to the use of statistics to solve real problems or model the real world (where the model assumptions are almost always false by a long shot).
 
-Computing Machinery and Intelligence, Alan Turing, Mind, 1950.
-Seminal paper which forms part of the philosophical backbone of AI. Turing addresses a philosophical question of the day (Can Machines Think?) by dismissing it as meaningless (basically, metaphysical) and instead insisting on asking questions in the form of testable behaviors. This is where he introduces the Imitation Game, which came to be known as the Turing Test.
+* [On Chomsky and the Two Cultures of Statistical Learning](http://people.cs.ksu.edu/~hitzler/nesy/NeSy13/norvig.pdf), Peter Norvig, 2011.
+    * Written in response to comments where Chomsky derided CL/NLP/AI for not providing scientific insight, and suggested that much of the work in the field counts either as failure or a “novel” definition of success which cares only about success of a model on held-out data. Norvig provides a defense of this notion of success, and attributes Chomsky’s view essentially to the “data modeling culture” side of Breiman’s “two cultures” of statistical modeling (below), which assumes a simple model of reality and relies on the theorist to choose it correctly, rather than assuming a complex model of reality and challenges the theorist to provide generalizable explanations (...this may not be the best pithy explanation of the differences; just read it directly). He attributes to Chomsky a sort of naive “Platonism” in opposition to his own position, which I would give the name “Behavioralism.” In my view, Norvig’s view inherits from the rejection of the accessibility of metaphysical claims in science that — frankly — underpins much of modern philosophy, including views of the Skeptics, Empiricists (e.g. David Hume), Pragmatists (e.g. William James), and even some Rationalists (at least Kant), as well as philosophers of science (including at least Karl Popper) and, last but not least, Alan Turing in his own arguments (1950) which formed the foundation of AI. 
 
-The Generalization Crisis
-Not to be confused with Yarkoni’s “Generalizability Crisis.”
+* [Statistical Modeling: the Two Cultures](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.4933&rep=rep1&type=pdf), Leo Breiman, Statistical Science, 2001.
+    * Proposes the “two cultures” Norvig references: the data modeling and algorithmic modeling cultures. Data modeling constrains itself to the assumption that the model is correct (e.g., as with linear regression). Breiman critiques the approach as being an obstacle to the use of statistics to solve real problems or model the real world (where the model assumptions are almost always false by a long shot).
+
+* [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238), Alan Turing, Mind, 1950.
+    * Seminal paper which forms part of the philosophical backbone of AI. Turing addresses a philosophical question of the day (Can Machines Think?) by dismissing it as meaningless (basically, metaphysical) and instead insisting on asking questions in the form of testable behaviors. This is where he introduces the Imitation Game, which came to be known as the Turing Test.
+
+* The Generalization Crisis (TBD)
+    * Not to be confused with Yarkoni’s “Generalizability Crisis.”
 
 
 Behavioralist Critiques of Behavioralism
