@@ -4,11 +4,11 @@
 
 [SEP Article on CL](https://plato.stanford.edu/entries/computational-linguistics/)
     
-    A great fairly comprehensive summary to start with.
+   A great fairly comprehensive summary to start with.
     
 [Computational Linguistics: History](https://www.sciencedirect.com/science/article/pii/B0080448542009287). Yorick Wilks, Encyclopedia of Language & Linguistics, 2006. 
     
-    Wilks is tracing CL back to the beginnings of machine translation and discusses research questions of CL along the way.
+   Wilks is tracing CL back to the beginnings of machine translation and discusses research questions of CL along the way.
 
 [A Life of Language](https://web.stanford.edu/~mjkay/LifeOfLanguage.pdf). Martin Kay, 1994.
     
@@ -16,17 +16,17 @@
 
 [Aspects of Linguistic Theory in Firthian Linguistics](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1967.11435497), Olasope O. Oyelaran, Word, 2015
     
-    Not directly related to CL but relevant, because it talks about the history of theory of meaning.
+   Not directly related to CL but relevant, because it talks about the history of theory of meaning.
     
 [A pendulum swung too far](https://journals.linguisticsociety.org/elanguage/lilt/article/download/2581/2581-5320-1-PB.pdf). Church, 2011.    
     
-    See Module on Rationalism and Empiricism, but also a good article to read on history of the field.
+   See Module on Rationalism and Empiricism, but also a good article to read on history of the field.
     
 ### Module 2: CL today: Research questions
 
 [*Science in Action*](https://d1wqtxts1xzle7.cloudfront.net/32543408/99631234-Science-in-Action-by-B-Latour.pdf?1386907159=&response-content-disposition=inline%3B+filename%3DSCIENCE_IN_ACTION_How_to_follow_scientis.pdf&Expires=1616438283&Signature=DZLTmRuraJCo6WcWMiDiRi00fgNKYt7hZ9eLE73PxV1~tUhlqzGjos5eAT~bQegjCkDX7cshAmj165wDnwA49gmkptcpSnkCrZimUfHbb3CxD3VZZv8-XHvI3RF5XjC1qLpGKr8XkyO~Z-hGgiJp9Fk6A~P-TQ-pHH9NHBjh37SQy3mpJp5bXVxnnjrQMndBGGOP8a4BzPq0SPDQJZxH3pAvom9cINFBoRts8CfRJemei-g-fq4N3-6pMxnFaZY0LTY5j4GWvfx29QCMM~Pc5RA0xg5fYhhar4SJQ71kRtbRTgj-1MFO5cmb2Y3dr2QLDv6CGiFjOTZY-I7N7rhoRg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) by Bruno Latour, 1987.
 
-    A fairly unusual book about science and research questions in general.
+   A fairly unusual book about science and research questions in general.
     
 [Review: Surely You Are Joking, Monsieur Latour!](https://www.jstor.org/stable/689826?casa_token=Q-SKwf5EKvAAAAAA:fcld0DCcDueyDp_Ttfgh_zPBhxYKTa-JCP6RT0Y8-XDGfogRSwOxz7H-43bl7btJxt7SdCSaCsnCn7EvngLObmKWWhfXnyzyn7yFyz0ooME7CwjkjSi8&seq=1), by Olga Amsterdamska, 1990.
 
@@ -36,7 +36,7 @@
 
 [Language Tasks and Language Games: On Methodology in Current Natural Language Processing Research](https://arxiv.org/abs/1908.10747). David Schlangen, 2020
 
-    This paper takes an AI-driven perspective on CL. Schlangen argues that many goals of computational linguistics are inherently tied to cognitive science theories---because arguably, the main goals of CL have to do with modeling language processing faculties and reasoning/behavioral issues. The conclusion is that working with linguistic and cognitive science theories more should make the argument in CL research generally more explicit.
+   This paper takes an AI-driven perspective on CL. Schlangen argues that many goals of computational linguistics are inherently tied to cognitive science theories---because arguably, the main goals of CL have to do with modeling language processing faculties and reasoning/behavioral issues. The conclusion is that working with linguistic and cognitive science theories more should make the argument in CL research generally more explicit.
 
 Julian — empiricism, tasks, data (slides)
 
