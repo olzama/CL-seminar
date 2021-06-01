@@ -22,23 +22,21 @@
     
     See Module on Rationalism and Empiricism, but also a good article to read on history of the field.
     
-April 12 — State of CL (tasks, data, methodology, institutions, peer review)
+### Module 2: CL today: Research questions
 
-Not discussed
-Science in Action, Bruno Latour, 1987.
-Surely You Are Joking, Monsieur Latour!, review by Olga Amsterdamska, 1990.
-Research Questions in Linguistics, Jane Sunderland, Ch. 1 of Research Methods in Linguistics, ed. Lia Litosseliti, 2010
-Physics Fight: Theoretical or Experimental? 2019
-Vision: NLG can Help Humanize Data and AI, Ehud Reiter, 2021
+[*Science in Action*](https://d1wqtxts1xzle7.cloudfront.net/32543408/99631234-Science-in-Action-by-B-Latour.pdf?1386907159=&response-content-disposition=inline%3B+filename%3DSCIENCE_IN_ACTION_How_to_follow_scientis.pdf&Expires=1616438283&Signature=DZLTmRuraJCo6WcWMiDiRi00fgNKYt7hZ9eLE73PxV1~tUhlqzGjos5eAT~bQegjCkDX7cshAmj165wDnwA49gmkptcpSnkCrZimUfHbb3CxD3VZZv8-XHvI3RF5XjC1qLpGKr8XkyO~Z-hGgiJp9Fk6A~P-TQ-pHH9NHBjh37SQy3mpJp5bXVxnnjrQMndBGGOP8a4BzPq0SPDQJZxH3pAvom9cINFBoRts8CfRJemei-g-fq4N3-6pMxnFaZY0LTY5j4GWvfx29QCMM~Pc5RA0xg5fYhhar4SJQ71kRtbRTgj-1MFO5cmb2Y3dr2QLDv6CGiFjOTZY-I7N7rhoRg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) by Bruno Latour, 1987.
 
-Discussed
-Language Tasks and Language Games: On Methodology in Current Natural Language Processing Research, David Schlangen, 2020
-This paper takes an AI-driven perspective on CL. Schlangen argues that many goals of computational linguistics are inherently tied to cognitive science theories---because arguably, the main goals of CL have to do with modeling language processing faculties and reasoning/behavioral issues. The conclusion is that working with linguistic and cognitive science theories more should make the argument in CL research generally more explicit.
+    A fairly unusual book about science and research questions in general.
+    
+[Review: Surely You Are Joking, Monsieur Latour!](https://www.jstor.org/stable/689826?casa_token=Q-SKwf5EKvAAAAAA:fcld0DCcDueyDp_Ttfgh_zPBhxYKTa-JCP6RT0Y8-XDGfogRSwOxz7H-43bl7btJxt7SdCSaCsnCn7EvngLObmKWWhfXnyzyn7yFyz0ooME7CwjkjSi8&seq=1), by Olga Amsterdamska, 1990.
 
-ACL Rolling Review Proposal
-In 2020, a suggestion was put forth to reform the ACL reviewing process. The proposal includes a centralized pool of reviewers who can be sent papers at any time (like it happens in journals). Then the already reviewed papers are submitted to conferences. The goals for the reform were stated mainly as making the reviewing process “more systematic” (which I think means, more relevant assignment), reducing time from doing research to publication, increasing quality of papers, and reducing the load of area chairs during conferences. Expressed concerns at the time included diversity of publications (it might decrease even further with the new system).
-Revise & Resubmit is damaging to science and should be abandoned, Martin Haspelmath, 2020.
-Haspelmath is talking about linguistics journals, and he is arguing that the current situation with the “revise and resubmit” procedure in linguistic journals is unethical and antiscientific in spirit. What he means is: currently in linguistics, a significant proportion of authors submitting to journals get the “revise and resubmit” response. In practice, this means that the author is expected to address the very specific reviewer concerns and show evidence of that when submitting the paper again. The problem with that is that it forces the author to rewrite the paper as the reviewer sees fit. Essentially this makes the reviewer an implicit coauthor. Haspelmath is of the opinion that it is better to just reject papers instead of requesting specific revisions (and then the author can go to another venue to publish their work).  
+[Research Questions in Linguistics](http://217.64.17.124:8080/xmlui/bitstream/handle/123456789/571/Methods_in_Linguistics._Litosse.pdf?sequence=1&isAllowed=y), Jane Sunderland, Ch. 1 of *Research Methods in Linguistics*, ed. Lia Litosseliti, 2010
+
+[Vision: NLG can Help Humanize Data and AI](https://ehudreiter.com/2021/03/17/vision-nlg-can-help-humanise-data-and-ai/). Ehud Reiter, 2021
+
+[Language Tasks and Language Games: On Methodology in Current Natural Language Processing Research](https://arxiv.org/abs/1908.10747). David Schlangen, 2020
+
+    This paper takes an AI-driven perspective on CL. Schlangen argues that many goals of computational linguistics are inherently tied to cognitive science theories---because arguably, the main goals of CL have to do with modeling language processing faculties and reasoning/behavioral issues. The conclusion is that working with linguistic and cognitive science theories more should make the argument in CL research generally more explicit.
 
 Julian — empiricism, tasks, data (slides)
 
@@ -105,6 +103,8 @@ A very well-written, entertaining paper arguing for symbolic reasoning in AI. Am
 Formal and Empirical Methods in Philosophy of Science, Crupi and Hartmann, 2010.
 A fairly accessible article from the philosophy of science field. Non-philosophers may need to look up some definitions of course and will inevitably miss some of the content, but it is an interesting exposition of what role empirical and formal methods play in epistemology. The discussion seems relevant to the more general question of how formal and experimental approaches interact in science. In particular, the essay mentions the connection between hypothesis testing in philosophy of science and in cognitive science.
 
+Physics Fight: Theoretical or Experimental? 2019
+
 May 3 — Evaluation
 Beyond accuracy. Ribeiro et al., 2020.
 ACL 2020 best paper. They put together some test suites and show that state-of-the-art misses most of the checkboxes. Finding and watching the video with slides highly recommended, as it’s very entertaining and follows the grand tradition of Carlos Guestrin’s lectures :).
@@ -123,6 +123,13 @@ This was recommended to me on Twitter as illustrating Generative Lexicon. I have
 May 17 — Academy and Industry
 Protections of Tenure and Academic Freedom in the United States. Herzog 2017.
 A book (not available online) which talks about the history of tenure in the U.S. and puts forth some discussion on how in the 21st century, the existing system of tenure does not fully protect the professors’ right to speak on controversial topics. The book also contains detailed descriptions of multiple court cases associated with tenure, including Supreme Court cases. While the book is about tenure, it emphasizes that for the most part, issues having to do with the First Amendment apply to untenured faculty just as well as they do to all public employees. According to the book, in court cases where the reason for termination of employment is recognized as potentially having to do with free speech, the courts tend to rule in favor of the professor; however when the reasons for termination are officially financial (e.g. the college’s financial “exigency”), the courts tend to rule in favor of the college. I think the point of the book kind of is that tenure as an institution has nothing to do with protection of academic freedom as established by the courts.
+
+ACL Rolling Review Proposal
+In 2020, a suggestion was put forth to reform the ACL reviewing process. The proposal includes a centralized pool of reviewers who can be sent papers at any time (like it happens in journals). Then the already reviewed papers are submitted to conferences. The goals for the reform were stated mainly as making the reviewing process “more systematic” (which I think means, more relevant assignment), reducing time from doing research to publication, increasing quality of papers, and reducing the load of area chairs during conferences. Expressed concerns at the time included diversity of publications (it might decrease even further with the new system).
+Revise & Resubmit is damaging to science and should be abandoned, Martin Haspelmath, 2020.
+Haspelmath is talking about linguistics journals, and he is arguing that the current situation with the “revise and resubmit” procedure in linguistic journals is unethical and antiscientific in spirit. What he means is: currently in linguistics, a significant proportion of authors submitting to journals get the “revise and resubmit” response. In practice, this means that the author is expected to address the very specific reviewer concerns and show evidence of that when submitting the paper again. The problem with that is that it forces the author to rewrite the paper as the reviewer sees fit. Essentially this makes the reviewer an implicit coauthor. Haspelmath is of the opinion that it is better to just reject papers instead of requesting specific revisions (and then the author can go to another venue to publish their work).  
+
+
 
 May 24 — The future!
 On the gap between theoretical and computational linguistics. Marco Baroni, EACL 2021 keynote speech.
