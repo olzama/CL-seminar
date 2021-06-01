@@ -5,7 +5,9 @@ A seminar held in Spring 2021 at University of Washington
 
 ### Contributors:
 
-Olga Zamaraeva, Julian Michael, Emily Proch Ahn, and Tsudoi Wada.
+Olga Zamaraeva, Julian Michael
+
+Emily Proch Ahn, Tsudoi Wada
 
 ### Content:
 
