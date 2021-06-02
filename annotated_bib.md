@@ -38,7 +38,7 @@
 
    * This paper takes an AI-driven perspective on CL. Schlangen argues that many goals of computational linguistics are inherently tied to cognitive science theories---because arguably, the main goals of CL have to do with modeling language processing faculties and reasoning/behavioral issues. The conclusion is that working with linguistic and cognitive science theories more should make the argument in CL research generally more explicit.
 
-### Module 3: Evolution of methodologies
+### Module 3: Evolution of methodologies (probably enough to fill an entire course)
 
 * [Julian Michael's presentation](https://docs.google.com/presentation/d/1bMmXlFlSlZqyhD05oBoIkBGqH_zlDxBoCRlZowyrS0M/edit)
 
