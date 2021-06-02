@@ -15,6 +15,6 @@ In Spring 2021, I declared a graduate seminar as part of the "Problems in Lingui
 
 [Partially annotated bibliography](annotated_bib.md)
 
-[Discussion]()
+[Discussion](https://github.com/olzama/CL-seminar/discussions)
 
 Please feel free to discuss and make suggestions! 
