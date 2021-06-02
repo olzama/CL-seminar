@@ -69,54 +69,77 @@ In the introduction, van der Kolk describes what he calls the “pharmacological
 * The Generalization Crisis (TBD)
     * Not to be confused with Yarkoni’s “Generalizability Crisis.”
 
+* [Syntactic Structures](http://tallinzen.net/media/readings/chomsky_syntactic_structures.pdf), Noam Chomsky, 1957.
+    * Chomsky’s famous monograph which formed the foundation of early generative linguistics. Lots could be said about it but I note particularly his criticisms of probabilistic language modeling (referenced by Norvig), where he suggests it is incapable of capturing certain linguistic facts which would be accounted for in formal grammar.
 
-Behavioralist Critiques of Behavioralism
-Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data, Emily M. Bender and Alexander Koller, ACL, 2020.
-Argument on the subject of a contemporary debate over language models: can a self-supervised model like GPT-* or BERT be said to “understand” language, or somehow grasp language “meaning”? Argues that this is essentially a category error. The argument itself is extremely brief, but many behavioral claims (both empirically about GPT-2 and theoretically) are made about language models to illustrate the argument (most notably their “Octopus Test”).
-To Dissect an Octopus: Making Sense of the Form/Meaning Debate, Julian Michael, 2020.
-My synthesis of the Octopus paper (above) and responses to it. Basically I think Bender & Koller’s argument is out of step with the “behavioralist” tradition in AI, which leads to a lot of unproductive disagreements and leads their argument to sound metaphysical and fall on deaf ears. In order to have practical significance, their argument must reckon with (and provide at least partial refutation of) the behavioralist approach. I provide some bones for such an argument in the last section (“Synthesis”) of the post.
+* [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463.pdf), Emily M. Bender and Alexander Koller, ACL, 2020.
+    * Argument on the subject of a contemporary debate over language models: can a self-supervised model like GPT-* or BERT be said to “understand” language, or somehow grasp language “meaning”? Argues that this is essentially a category error. The argument itself is extremely brief, but many behavioral claims (both empirically about GPT-2 and theoretically) are made about language models to illustrate the argument (most notably their “Octopus Test”).
 
-Syntactic Structures, Noam Chomsky, 1957.
-Chomsky’s famous monograph which formed the foundation of early generative linguistics. Lots could be said about it but I note particularly his criticisms of probabilistic language modeling (referenced by Norvig), where he suggests it is incapable of capturing certain linguistic facts which would be accounted for in formal grammar.
+* [To Dissect an Octopus: Making Sense of the Form/Meaning Debate](https://blog.julianmichael.org/2020/07/23/to-dissect-an-octopus.html), Julian Michael, 2020.
+    * A synthesis of the "Octopus paper" (above) and responses to it. Basically JM thinks Bender & Koller’s argument is out of step with the “behavioralist” tradition in AI, which leads to a lot of unproductive disagreements and leads their argument to sound metaphysical and fall on deaf ears. In order to have practical significance, their argument must reckon with (and provide at least partial refutation of) the behavioralist approach. JM provides some bones for such an argument in the last section (“Synthesis”) of the post.
 
-The Shallowness of Google Translate, Douglas Hofstadter, The Atlantic, 2018.
-Hofstadter voices doubt about the abilities of MT systems to take on the whole problem of machine translation: through example and argument, he suggests that translation requires situational, social, and psychological understanding which is inaccessible to MT systems as they exist. This closely mirrors the Octopus Paper’s argument, with some of the same shortcomings.
+* [Understanding conflict, Chapter 32](https://www.hawaii.edu/powerkills/DPF.CHAP32.HTM), Rummel, date unknown.
+    * An online book. Chapter 32 talks about idealism and materialism, providing a useful summary.  
 
-GPT-3, Bloviator: OpenAI’s language generator has no idea what it’s talking about, Gary Marcus and Ernest Davis, MIT Technology Review, 2020.
-Yet another example of behavioralist critiques of behavioralism, with many examples of GPT outputs not behaving as the authors expect based on their understanding of the world. However, they also provide a more nuanced argument in the last third of the piece: even if an improv performer often came up with sound medical advice during their performance, you would not go to them for medical advice. You would go to a doctor. I think this point is important; it’s part of what I want to make more precise.
+* [Assembling syntax, §1.2](https://olzama.github.io/OZ-diss.pdf), Zamaraeva, 2021.
+    * A short pragraph from Olga's dissertation, suggesting that linguistics and computational linguistics are going through stages of preferring idealist (rationalist) approaches to materialist (empiricist) approaches and vice versa (and that therefore both are important and neither will ever die out). 
+
+* [Formal and Empirical Methods in Philosophy of Science](http://philsci-archive.pitt.edu/4782/1/CrupiHartmann_Methods.pdf), Crupi and Hartmann, 2010.
+    * A fairly accessible article from the philosophy of science field. Non-philosophers may need to look up some definitions of course and will inevitably miss some of the content, but it is an interesting exposition of what role empirical and formal methods play in epistemology. The discussion seems relevant to the more general question of how formal and experimental approaches interact in science. In particular, the essay mentions the connection between hypothesis testing in philosophy of science and in cognitive science.
+
+* [Friendly feuds](https://www.futurity.org/physics-theoretical-versus-experimental-2027822/) 
+    * A physics fight: theoretical or experimental? (a show)
+
+* [Cognitive linguistics and Marxism](http://www.tulane.edu/~howard/LangIdeo/Jones/JonesAbs.html). Jones, date unknown.
+    * An (unpublished?) essay relating Lakoff's style "cognitive linguistics" to materialism and idealism, the premise being that Lakoff is very idealist in his approach. The essay is mainly interesting in the sense that it engages with the concepts directly, which is fairly rare.
+
+* [The Shallowness of Google Translate](https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/#CorrectionA), Douglas Hofstadter, The Atlantic, 2018.
+    * Hofstadter voices doubt about the abilities of MT systems to take on the whole problem of machine translation: through example and argument, he suggests that translation requires situational, social, and psychological understanding which is inaccessible to MT systems as they exist. This closely mirrors the Octopus Paper’s argument, with some of the same shortcomings.
+
+* [GPT-3, Bloviator: OpenAI’s language generator has no idea what it’s talking about](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/), Gary Marcus and Ernest Davis, MIT Technology Review, 2020.
+    * Yet another example of behavioralist critiques of behavioralism, with many examples of GPT outputs not behaving as the authors expect based on their understanding of the world. However, they also provide a more nuanced argument in the last third of the piece: even if an improv performer often came up with sound medical advice during their performance, you would not go to them for medical advice. You would go to a doctor. I think this point is important; it’s part of what I want to make more precise.
 Studies on Syntax
 
-
-Principles and Abstraction
-On the Role of Scientific Thought, Edsger Dijkstra, 1974.
+* [On the Role of Scientific Thought](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html), Edsger Dijkstra, 1974.
 Intelligent Machinery, Alan Turing, 1948.
 
+* [A pendulum swung too far](https://journals.linguisticsociety.org/elanguage/lilt/article/download/2581/2581-5320-1-PB.pdf), Church, 2011.
+    * This paper considers the historical oscillations between empiricism and rationalism in CL and AI. In particular, it considers the funding dimension and how funding “winters” are caused by frustration associated with goals which are too long-term, and how focusing on “low-hanging fruit” tends to alleviate such “winters”. At least in the specific cases, there is a correlation here with formal vs. statistical approaches. On the other hand, Church is of the opinion that figures like Chomsky, Pierce, and Misky are directly responsible for the “winters” as well. Talk about the role of personality in history (Tolstoy). That said, Church appears to be a fan of Pierce and emphasizes Pierce’s belief that there should be long-term research in basic disciplines which is not evaluated by industrial/commercial metrics. Throughout the article, Church talks about the debate (between proponents of different methodologies) keeps being lost between generations, and how this could be remedied through teaching. He provides an interesting overview of the modern CL textbooks from this perspective, with many specific examples of the textbooks’ clear failures to mention one side of the argument even when citing works whose main purpose was to put that particular side of the argument forth. He concludes with a couple of examples where richer linguistic representations became more important with time, one of them in MT. Has that changed with deep learning?
 
-April 26 — Formal and Statistical Methods
-A pendulum swung too far, Church, 2011.
-This paper considers the historical oscillations between empiricism and rationalism in CL and AI. In particular, it considers the funding dimension and how funding “winters” are caused by frustration associated with goals which are too long-term, and how focusing on “low-hanging fruit” tends to alleviate such “winters”. At least in the specific cases, there is a correlation here with formal vs. statistical approaches. On the other hand, Church is of the opinion that figures like Chomsky, Pierce, and Misky are directly responsible for the “winters” as well. Talk about the role of personality in history (Tolstoy). That said, Church appears to be a fan of Pierce and emphasizes Pierce’s belief that there should be long-term research in basic disciplines which is not evaluated by industrial/commercial metrics. Throughout the article, Church talks about the debate (between proponents of different methodologies) keeps being lost between generations, and how this could be remedied through teaching. He provides an interesting overview of the modern CL textbooks from this perspective, with many specific examples of the textbooks’ clear failures to mention one side of the argument even when citing works whose main purpose was to put that particular side of the argument forth. He concludes with a couple of examples where richer linguistic representations became more important with time, one of them in MT. Has that changed with deep learning?
-
-On our best behaviour, Levesque, 2013.
-A very well-written, entertaining paper arguing for symbolic reasoning in AI. Among other things, it discusses using Winograd Schema questions instead of the Turing test.
+* [On our best behaviour](https://www.cs.toronto.edu/~hector/Papers/ijcai-13-paper.pdf), Levesque, 2013.
+    * A very well-written, entertaining paper arguing for symbolic reasoning in AI. Among other things, it discusses using Winograd Schema questions instead of the Turing test.
 Formal and Empirical Methods in Philosophy of Science, Crupi and Hartmann, 2010.
 A fairly accessible article from the philosophy of science field. Non-philosophers may need to look up some definitions of course and will inevitably miss some of the content, but it is an interesting exposition of what role empirical and formal methods play in epistemology. The discussion seems relevant to the more general question of how formal and experimental approaches interact in science. In particular, the essay mentions the connection between hypothesis testing in philosophy of science and in cognitive science.
 
-Physics Fight: Theoretical or Experimental? 2019
+* [Minimalist grammars and recognition](https://linguistics.ucla.edu/people/stabler/BadTeinach.pdf), Stabler, 1999 (and any subsequent work, including SCiL 2020, 2021, e.g. by Graf).
+    * Implementations of Minimalist-style grammars.
 
-May 3 — Evaluation
-Beyond accuracy. Ribeiro et al., 2020.
-ACL 2020 best paper. They put together some test suites and show that state-of-the-art misses most of the checkboxes. Finding and watching the video with slides highly recommended, as it’s very entertaining and follows the grand tradition of Carlos Guestrin’s lectures :).
+* [Grammar engineering for linguistic hypothesis testing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.498.7068&rep=rep1&type=pdf), Bender, 2008.   
 
-The ERG at MRP, Oepen and Flickinger, 2019. 
-Some evidence that grammars make for better target meaning representations. I put this paper under “evaluation” because this is in the context of discussing meaning representations for evaluation. But it can also be read as part of the “formal vs. statistical methods” section.
-What is SemEval evaluating? Wysoki et al., 2020 (or was it ever published?)
-This paper is asking, what the contribution of evaluating campaigns actually is? Although it is an overview of various aspects of SemEval rather than a position paper. It concludes that evaluation campaigns may have significant impact on the field and may bias it towards certain methodologies (e.g. deep learning in NLP). Among other things, they suggest separating “competition papers” from research tasks.
-AI and the Everything in the Whole Wide World Benchmark, Raji et al., ML Retrospectives, 2020.
-A discussion on the history of benchmarking in AI and criticism of the practice of producing “general” benchmarks, or regarding them as “general.” Focuses on the ImageNet Challenge and GLUE benchmark. Julian’s note: while I agree with the general point of the paper, I think some of the criticisms of GLUE are severely lacking context (of course, I think this as an author of GLUE). This was a workshop submission and AFAIK they are continuing to refine the paper. I have corresponded with the authors on a newer draft of the paper. My feedback to them is in this Google doc.
-Extrapolating GPT-N Performance, Lukas Finnveden, 2020.
+* [A semantic analysis of the English Genitive](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-9582.00092?casa_token=PF-_YL7NSgIAAAAA:WCRQaomSj3rxesrNFd2gz484cAyCtK2RGUCfR4Soy2Kr3_yMxNwPz5WR3IEkPITLMeAjNwNCicQljA4), Vikner and Jensen, 2002. 
+    * This was recommended to me on Twitter as illustrating Generative Lexicon, which was part of our formal semantics discussion. 
+
+
+### Module 4: Evaluation
+
+* [Beyond accuracy](https://arxiv.org/pdf/2005.04118.pdf) (and [an entertaining video](https://slideslive.com/38929272/beyond-accuracy-behavioral-testing-of-nlp-models-with-checklist)). Ribeiro et al., 2020.
+    * ACL 2020 best paper. They put together some test suites and show that state-of-the-art misses most of the checkboxes. Finding and watching the video with slides highly recommended, as it’s very entertaining and follows the grand tradition of Carlos Guestrin’s lectures :).
+
+[AI and the Everything in the Whole Wide World Benchmark](https://ml-retrospectives.github.io/neurips2020/camera_ready/18.pdf), Raji et al., ML Retrospectives, 2020.
+     * A discussion on the history of benchmarking in AI and criticism of the practice of producing “general” benchmarks, or regarding them as “general.” Focuses on the ImageNet Challenge and GLUE benchmark. Julian Michael’s note: while I agree with the general point of the paper, I think some of the criticisms of GLUE are severely lacking context (of course, I think this as an author of GLUE). This was a workshop submission and AFAIK they are continuing to refine the paper. I have corresponded with the authors on a newer draft of the paper. My feedback to them is in [this Google doc](https://docs.google.com/document/d/1cfa47d_sGC-WtZ_glUH3r_qG3QUFLKlwN3VkRP1Opu8/edit?usp=sharing).
+
+[Extrapolating GPT-N Performance](https://www.lesswrong.com/posts/k2SNji3jXaLGhBeYP/extrapolating-gpt-n-performance), Lukas Finnveden, 2020.
 This is an attempt to understand and predict performance trends in AI using benchmarks as a guide. In particular, the author is interested in extrapolating the effect of scale on an AI system’s overall capability. Julian’s note: the most interesting part here IMO is the comment thread in which I had a lengthy discussion with the author. In it I outlined what I believe are a lot of problems that prevent us from drawing conclusions about AI’s usefulness in the real world purely from empirical performance trends on benchmarks, while the author offered their perspective on trying to predict the arrival of “transformative AI.”
-A semantic analysis of the English Genitive. 
-This was recommended to me on Twitter as illustrating Generative Lexicon. I haven’t yet read it.
+
+* [Accuracy vs. robustness in grammar engineering](http://lists.delph-in.net/archives/developers/attachments/20180514/ffe9ae3d/attachment-0001.pdf), Flickinger, 2011.
+    * A publication on the English Resource Grammar discussing treebanking, coverage, applications, etc. Can also be read as part of the previous module.
+
+* [The ERG at MRP](https://www.aclweb.org/anthology/K19-2003.pdf), Oepen and Flickinger, 2019. 
+    * Some evidence that grammars make for better target meaning representations. I put this paper under “evaluation” because this is in the context of discussing meaning representations for evaluation. But it can also be read as part of the “formal vs. statistical methods” section.
+
+* [What is SemEval evaluating?](https://arxiv.org/pdf/2005.14299.pdf) Wysoki et al., 2020 (or was it ever published?)
+     * This paper is asking, what the contribution of evaluating campaigns actually is? Although it is an overview of various aspects of SemEval rather than a position paper. It concludes that evaluation campaigns may have significant impact on the field and may bias it towards certain methodologies (e.g. deep learning in NLP). Among other things, they suggest separating “competition papers” from research tasks.
+
 
 May 17 — Academy and Industry
 Protections of Tenure and Academic Freedom in the United States. Herzog 2017.
