@@ -3,31 +3,25 @@
 ### Module 1: History of computational linguistics
 
 * [SEP Article on CL](https://plato.stanford.edu/entries/computational-linguistics/)
-    
-   * A great fairly comprehensive summary to start with.
-    
+    * A great fairly comprehensive summary to start with.
+
 * [Computational Linguistics: History](https://www.sciencedirect.com/science/article/pii/B0080448542009287). Yorick Wilks, Encyclopedia of Language & Linguistics, 2006. 
-    
-   * Wilks is tracing CL back to the beginnings of machine translation and discusses research questions of CL along the way.
+    * Wilks is tracing CL back to the beginnings of machine translation and discusses research questions of CL along the way.
 
 * [A Life of Language](https://web.stanford.edu/~mjkay/LifeOfLanguage.pdf). Martin Kay, 1994.
-    
     * A speech given upon receipt of a Lifetime Achievement Award (from the ACL?).
 
 * [Aspects of Linguistic Theory in Firthian Linguistics](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1967.11435497), Olasope O. Oyelaran, Word, 2015
-    
-   * Not directly related to CL but relevant, because it talks about the history of theory of meaning.
-    
+    * Not directly related to CL but relevant, because it talks about the history of theory of meaning.
+
 * [A pendulum swung too far](https://journals.linguisticsociety.org/elanguage/lilt/article/download/2581/2581-5320-1-PB.pdf). Church, 2011.    
-    
-   * See Module on Rationalism and Empiricism, but also a good article to read on history of the field.
-    
+    * See Module on Rationalism and Empiricism, but also a good article to read on history of the field.
+
 ### Module 2: CL today: Research questions
 
 * [*Science in Action*](https://d1wqtxts1xzle7.cloudfront.net/32543408/99631234-Science-in-Action-by-B-Latour.pdf?1386907159=&response-content-disposition=inline%3B+filename%3DSCIENCE_IN_ACTION_How_to_follow_scientis.pdf&Expires=1616438283&Signature=DZLTmRuraJCo6WcWMiDiRi00fgNKYt7hZ9eLE73PxV1~tUhlqzGjos5eAT~bQegjCkDX7cshAmj165wDnwA49gmkptcpSnkCrZimUfHbb3CxD3VZZv8-XHvI3RF5XjC1qLpGKr8XkyO~Z-hGgiJp9Fk6A~P-TQ-pHH9NHBjh37SQy3mpJp5bXVxnnjrQMndBGGOP8a4BzPq0SPDQJZxH3pAvom9cINFBoRts8CfRJemei-g-fq4N3-6pMxnFaZY0LTY5j4GWvfx29QCMM~Pc5RA0xg5fYhhar4SJQ71kRtbRTgj-1MFO5cmb2Y3dr2QLDv6CGiFjOTZY-I7N7rhoRg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) by Bruno Latour, 1987.
+    * A fairly unusual book about science and research questions in general.
 
-   * A fairly unusual book about science and research questions in general.
-    
 * [Review: Surely You Are Joking, Monsieur Latour!](https://www.jstor.org/stable/689826?casa_token=Q-SKwf5EKvAAAAAA:fcld0DCcDueyDp_Ttfgh_zPBhxYKTa-JCP6RT0Y8-XDGfogRSwOxz7H-43bl7btJxt7SdCSaCsnCn7EvngLObmKWWhfXnyzyn7yFyz0ooME7CwjkjSi8&seq=1), by Olga Amsterdamska, 1990.
 
 * [Research Questions in Linguistics](http://217.64.17.124:8080/xmlui/bitstream/handle/123456789/571/Methods_in_Linguistics._Litosse.pdf?sequence=1&isAllowed=y), Jane Sunderland, Ch. 1 of *Research Methods in Linguistics*, ed. Lia Litosseliti, 2010
@@ -35,22 +29,25 @@
 * [Vision: NLG can Help Humanize Data and AI](https://ehudreiter.com/2021/03/17/vision-nlg-can-help-humanise-data-and-ai/). Ehud Reiter, 2021
 
 * [Language Tasks and Language Games: On Methodology in Current Natural Language Processing Research](https://arxiv.org/abs/1908.10747). David Schlangen, 2020
-
-   * This paper takes an AI-driven perspective on CL. Schlangen argues that many goals of computational linguistics are inherently tied to cognitive science theories---because arguably, the main goals of CL have to do with modeling language processing faculties and reasoning/behavioral issues. The conclusion is that working with linguistic and cognitive science theories more should make the argument in CL research generally more explicit.
+    * This paper takes an AI-driven perspective on CL. Schlangen argues that many goals of computational linguistics are inherently tied to cognitive science theories---because arguably, the main goals of CL have to do with modeling language processing faculties and reasoning/behavioral issues. The conclusion is that working with linguistic and cognitive science theories more should make the argument in CL research generally more explicit.
 
 ### Module 3: Evolution of methodologies (probably enough to fill an entire course)
 
 * [Julian Michael's presentation](https://docs.google.com/presentation/d/1bMmXlFlSlZqyhD05oBoIkBGqH_zlDxBoCRlZowyrS0M/edit)
 
+
 * [*The Body Keeps the Score*](https://www.dropbox.com/s/d7zwqgmu93xe74e/Bessel%20van%20der%20Kolk%20MD%20-%20The%20Body%20Keeps%20the%20Score_%20Brain%2C%20Mind%2C%20and%20Body%20in%20the%20Healing%20of%20Trauma-Viking%20Adult%20%282014%29.pdf?dl=0). Bessel van der Kolk, 2014.
     * The book’s primary content is on van der Kolk’s approach to trauma healing, which integrates physiological and psychological factors.
 In the introduction, van der Kolk describes what he calls the “pharmacological revolution,” which was a sea change in how medical practice (and society) regards and treats mental illness, primarily brought about by the advent of powerful psychiatric drugs. What I found very interesting was how (I think) the advantages and pitfalls of psychiatric drugs and the social and scientific changes they wrought parallel very strongly with those of Deep Learning.
 
+
 * [Social Psychology and Science: Lessons from Solomon Asch](https://journals.sagepub.com/doi/10.1207/S15327957PSPR0501_1). Paul Rozin, Personality and Social Psychology Review, 2001.
     * Presents a methodological critique of social psychology, focusing on its overriding insistence on hypothesis testing and rigorous statistics, which are incongruous with its lack of coherent model systems which would allow statistically rigorous conclusions to generalize. Once again, I feel the parallels to NLP/CL are palpable. Rozin provides a brief diagnosis in terms of status marginality as social psychology exists on the margins of other, more accepted sciences, and suggests more exploratory and qualitative work based on informed intuition. (These comments may also apply to NLP/CL.)
 
+
 * [The Generalizability Crisis](https://psyarxiv.com/jqw35). Tal Yarkoni, Behavioral and Brain Sciences, 2020 (preprint 2019).
     * Gives a detailed and thorough account of some of the problems underlying typical statistical technique in the practice of psychology research, especially in their failure to account for statistical effects from components of the experimental setup that are often ignored in the analysis. These critiques touch both on the pitfalls of the data modeling culture (remarked on by Breiman, and later Norvig) and the exaggerated empiricism of psychology research critiqued by Rozin (above).
+
 
 * [A Scalable Approach to Reducing Gender Bias in Google Translate](https://ai.googleblog.com/2020/04/a-scalable-approach-to-reducing-gender.html), 2020.
     * This is the latest in a series of blog posts (you can follow links to previous ones) describing Google’s approach to handling gender-ambiguous translation problems. I give this as an example of a way of interrogating the nature of a task to make scientific progress in NLP. (I couldn’t find a proper paper describing the method; not sure if anything beyond these blog posts are published.)
@@ -95,21 +92,21 @@ In the introduction, van der Kolk describes what he calls the “pharmacological
     * Yet another example of behavioralist critiques of behavioralism, with many examples of GPT outputs not behaving as the authors expect based on their understanding of the world. However, they also provide a more nuanced argument in the last third of the piece: even if an improv performer often came up with sound medical advice during their performance, you would not go to them for medical advice. You would go to a doctor. Julian's opinion: I think this point is important; it’s part of what I want to make more precise.
 
 * Studies on syntax with and without neural nets: the question being, what do we actually learn about our systems (and about syntax) when they pass the tests we pose?
-  * [Syntactic Structures](http://tallinzen.net/media/readings/chomsky_syntactic_structures.pdf). Noam Chomsky, 1957.
-  * [Building a Large Annotated Corpus of English: The Penn Treebank](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1246&context=cis_reports). Marcus et al., 1993.
-  * Probing and assessing BERT:
-    * [What do you learn from context? Probing for sentence structure in contextualized word representations](https://openreview.net/forum?id=SJzSgnRcKX). Tenney et al., ICLR 2019.
-    * [BERT Rediscovers the Classical NLP Pipeline](https://research.google/pubs/pub48153/). Tenney et al., ACL 2019.
-    * [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419/). Hewitt and Manning, ACL 2019.
-    * [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference](https://www.aclweb.org/anthology/P19-1334/). McCoy et al., ACL 2019.
-  * [Neural Network Acceptability Judgments](https://arxiv.org/abs/1805.12471). Warstadt et al., 2018.
-  * [SyntaxGym: An Online Platform for Targeted Evaluation of Language Models](https://www.aclweb.org/anthology/2020.acl-demos.10/). Gauthier et al., 2020.
+    * [Syntactic Structures](http://tallinzen.net/media/readings/chomsky_syntactic_structures.pdf). Noam Chomsky, 1957.
+    * [Building a Large Annotated Corpus of English: The Penn Treebank](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1246&context=cis_reports). Marcus et al., 1993.
+    * Probing and assessing BERT:
+        * [What do you learn from context? Probing for sentence structure in contextualized word representations](https://openreview.net/forum?id=SJzSgnRcKX). Tenney et al., ICLR 2019.
+        * [BERT Rediscovers the Classical NLP Pipeline](https://research.google/pubs/pub48153/). Tenney et al., ACL 2019.
+        * [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419/). Hewitt and Manning, ACL 2019.
+        * [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference](https://www.aclweb.org/anthology/P19-1334/). McCoy et al., ACL 2019.
+    * [Neural Network Acceptability Judgments](https://arxiv.org/abs/1805.12471). Warstadt et al., 2018.
+    * [SyntaxGym: An Online Platform for Targeted Evaluation of Language Models](https://www.aclweb.org/anthology/2020.acl-demos.10/). Gauthier et al., 2020.
 
 * [On the Role of Scientific Thought](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html), Edsger Dijkstra, 1974.
-  * Dijkstra provides a viewpoint on what he thinks of as the primary distinguishing feature of intellectual pursuit, which is what allows it to make sense of the world: the 'separation of concerns', i.e., the act of forming and reasoning about abstractions, so as to make it tractable to draw conclusions about the world despite its immense complexity, while also remaining aware of the limitations of the conclusions being drawn (on the basis of the limitations of the abstractions chosen). Fundamentally, the ability to draw any kind of general conclusion requires a language of abstractions in which to express the generalization.
+    * Dijkstra provides a viewpoint on what he thinks of as the primary distinguishing feature of intellectual pursuit, which is what allows it to make sense of the world: the 'separation of concerns', i.e., the act of forming and reasoning about abstractions, so as to make it tractable to draw conclusions about the world despite its immense complexity, while also remaining aware of the limitations of the conclusions being drawn (on the basis of the limitations of the abstractions chosen). Fundamentally, the ability to draw any kind of general conclusion requires a language of abstractions in which to express the generalization.
 
 * [Intelligent Machinery](https://weightagnostic.github.io/papers/turing1948.pdf), Alan Turing, 1948.
-  * Here Turing explores the nature of machinery and intelligence in a broad sense, relating it to his formal developments of Turing Machines and Universal Turing Machines (calling them 'Logical Computing Machines'), whose distinguishing property is that they can emulate any machine if programmed appropriately. He then moves to propose the idea of 'unorganized machines', which formally look much like finite state machines with their states factorized into bits, and quickly draws an analogy to neurons in a nervous system. Then, by defining a subset of such 'machines' (which he calls 'B-type') which have a clearly distinguished stateful compoenent in each connection between neurons, he progresses into developing what it would mean to program such an unorganized machine (thereby 'organizing' it) and suggests that the human cortex is such a machine. Finally, he suggests pleasure/pain systems and reinforcement signals as a potential method to 'organize' these machines, concretely develops an approach for this (using what he calls 'P-type machines'), and suggests that more should be done along these lines. He then distinguishes between what he has just proposed ('discipline', corresponding to something like function approximation), and 'initiative', which corresponds more closely to an ability to intelligently search a space for possible solutions to a set of constraints. Much of today's widespread thinking about the development of 'intelligence' in neural networks can be traced back to these early proposals; it is eerily prescient of modern ML/AI.
+    * Here Turing explores the nature of machinery and intelligence in a broad sense, relating it to his formal developments of Turing Machines and Universal Turing Machines (calling them 'Logical Computing Machines'), whose distinguishing property is that they can emulate any machine if programmed appropriately. He then moves to propose the idea of 'unorganized machines', which formally look much like finite state machines with their states factorized into bits, and quickly draws an analogy to neurons in a nervous system. Then, by defining a subset of such 'machines' (which he calls 'B-type') which have a clearly distinguished stateful compoenent in each connection between neurons, he progresses into developing what it would mean to program such an unorganized machine (thereby 'organizing' it) and suggests that the human cortex is such a machine. Finally, he suggests pleasure/pain systems and reinforcement signals as a potential method to 'organize' these machines, concretely develops an approach for this (using what he calls 'P-type machines'), and suggests that more should be done along these lines. He then distinguishes between what he has just proposed ('discipline', corresponding to something like function approximation), and 'initiative', which corresponds more closely to an ability to intelligently search a space for possible solutions to a set of constraints. Much of today's widespread thinking about the development of 'intelligence' in neural networks can be traced back to these early proposals; it is eerily prescient of modern ML/AI.
 
 * [A pendulum swung too far](https://journals.linguisticsociety.org/elanguage/lilt/article/download/2581/2581-5320-1-PB.pdf), Church, 2011.
     * This paper considers the historical oscillations between empiricism and rationalism in CL and AI. In particular, it considers the funding dimension and how funding “winters” are caused by frustration associated with goals which are too long-term, and how focusing on “low-hanging fruit” tends to alleviate such “winters”. At least in the specific cases, there is a correlation here with formal vs. statistical approaches. On the other hand, Church is of the opinion that figures like Chomsky, Pierce, and Minsky are directly responsible for the “winters” as well. Talk about the role of personality in history (Tolstoy). That said, Church appears to be a fan of Pierce and emphasizes Pierce’s belief that there should be long-term research in basic disciplines which is not evaluated by industrial/commercial metrics. Throughout the article, Church talks about the debate (between proponents of different methodologies) keeps being lost between generations, and how this could be remedied through teaching. He provides an interesting overview of the modern CL textbooks from this perspective, with many specific examples of the textbooks’ clear failures to mention one side of the argument even when citing works whose main purpose was to put that particular side of the argument forth. He concludes with a couple of examples where richer linguistic representations became more important with time, one of them in MT. Has that changed with deep learning?
@@ -120,7 +117,7 @@ Formal and Empirical Methods in Philosophy of Science, Crupi and Hartmann, 2010.
 A fairly accessible article from the philosophy of science field. Non-philosophers may need to look up some definitions of course and will inevitably miss some of the content, but it is an interesting exposition of what role empirical and formal methods play in epistemology. The discussion seems relevant to the more general question of how formal and experimental approaches interact in science. In particular, the essay mentions the connection between hypothesis testing in philosophy of science and in cognitive science.
 
 * [Pragmatism: A New Name for Some Old Ways of Thinking](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm). William James, 1906-1907.
-  * James argues for a pragmatist epistemology, as an alternative to the rationalist/empiricist debate that was raging at the time (and prior) in philosophy. Of particular interest is Lecture VI, Pragmatism's Conception of Truth. Julian's note: There is far too much to say about this... it will have to wait until another time, but together with advances in philosophy of science since then, I think it has some answers to our philosophical dilemmas in CL, which IMO are largely epistemological. Also related is the [problem of grue](https://www3.nd.edu/~jspeaks/courses/2007-8/20229/_HANDOUTS/grue.pdf).
+    * James argues for a pragmatist epistemology, as an alternative to the rationalist/empiricist debate that was raging at the time (and prior) in philosophy. Of particular interest is Lecture VI, Pragmatism's Conception of Truth. Julian's note: There is far too much to say about this... it will have to wait until another time, but together with advances in philosophy of science since then, I think it has some answers to our philosophical dilemmas in CL, which IMO are largely epistemological. Also related is the [problem of grue](https://www3.nd.edu/~jspeaks/courses/2007-8/20229/_HANDOUTS/grue.pdf).
 
 * [Minimalist grammars and recognition](https://linguistics.ucla.edu/people/stabler/BadTeinach.pdf), Stabler, 1999 (and any subsequent work, including SCiL 2020, 2021, e.g. by Graf).
     * Implementations of Minimalist-style grammars.
