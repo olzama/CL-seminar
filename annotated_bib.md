@@ -35,19 +35,15 @@
 
 * [Julian Michael's presentation](https://docs.google.com/presentation/d/1bMmXlFlSlZqyhD05oBoIkBGqH_zlDxBoCRlZowyrS0M/edit)
 
-
 * [*The Body Keeps the Score*](https://www.dropbox.com/s/d7zwqgmu93xe74e/Bessel%20van%20der%20Kolk%20MD%20-%20The%20Body%20Keeps%20the%20Score_%20Brain%2C%20Mind%2C%20and%20Body%20in%20the%20Healing%20of%20Trauma-Viking%20Adult%20%282014%29.pdf?dl=0). Bessel van der Kolk, 2014.
     * The book’s primary content is on van der Kolk’s approach to trauma healing, which integrates physiological and psychological factors.
 In the introduction, van der Kolk describes what he calls the “pharmacological revolution,” which was a sea change in how medical practice (and society) regards and treats mental illness, primarily brought about by the advent of powerful psychiatric drugs. What I found very interesting was how (I think) the advantages and pitfalls of psychiatric drugs and the social and scientific changes they wrought parallel very strongly with those of Deep Learning.
 
-
 * [Social Psychology and Science: Lessons from Solomon Asch](https://journals.sagepub.com/doi/10.1207/S15327957PSPR0501_1). Paul Rozin, Personality and Social Psychology Review, 2001.
     * Presents a methodological critique of social psychology, focusing on its overriding insistence on hypothesis testing and rigorous statistics, which are incongruous with its lack of coherent model systems which would allow statistically rigorous conclusions to generalize. Once again, I feel the parallels to NLP/CL are palpable. Rozin provides a brief diagnosis in terms of status marginality as social psychology exists on the margins of other, more accepted sciences, and suggests more exploratory and qualitative work based on informed intuition. (These comments may also apply to NLP/CL.)
 
-
 * [The Generalizability Crisis](https://psyarxiv.com/jqw35). Tal Yarkoni, Behavioral and Brain Sciences, 2020 (preprint 2019).
     * Gives a detailed and thorough account of some of the problems underlying typical statistical technique in the practice of psychology research, especially in their failure to account for statistical effects from components of the experimental setup that are often ignored in the analysis. These critiques touch both on the pitfalls of the data modeling culture (remarked on by Breiman, and later Norvig) and the exaggerated empiricism of psychology research critiqued by Rozin (above).
-
 
 * [A Scalable Approach to Reducing Gender Bias in Google Translate](https://ai.googleblog.com/2020/04/a-scalable-approach-to-reducing-gender.html), 2020.
     * This is the latest in a series of blog posts (you can follow links to previous ones) describing Google’s approach to handling gender-ambiguous translation problems. I give this as an example of a way of interrogating the nature of a task to make scientific progress in NLP. (I couldn’t find a proper paper describing the method; not sure if anything beyond these blog posts are published.)
@@ -96,9 +92,9 @@ In the introduction, van der Kolk describes what he calls the “pharmacological
     * [Building a Large Annotated Corpus of English: The Penn Treebank](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1246&context=cis_reports). Marcus et al., 1993.
     * Probing and assessing BERT:
         * [What do you learn from context? Probing for sentence structure in contextualized word representations](https://openreview.net/forum?id=SJzSgnRcKX). Tenney et al., ICLR 2019.
-        * [BERT Rediscovers the Classical NLP Pipeline](https://research.google/pubs/pub48153/). Tenney et al., ACL 2019.
-        * [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419/). Hewitt and Manning, ACL 2019.
-        * [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference](https://www.aclweb.org/anthology/P19-1334/). McCoy et al., ACL 2019.
+        * [BERT Rediscovers the Classical NLP Pipeline](https://research.google/pubs/pub48153/). Tenney et al., ACL 2019.
+        * [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419/). Hewitt and Manning, ACL 2019.
+        * [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference](https://www.aclweb.org/anthology/P19-1334/). McCoy et al., ACL 2019.
     * [Neural Network Acceptability Judgments](https://arxiv.org/abs/1805.12471). Warstadt et al., 2018.
     * [SyntaxGym: An Online Platform for Targeted Evaluation of Language Models](https://www.aclweb.org/anthology/2020.acl-demos.10/). Gauthier et al., 2020.
 
