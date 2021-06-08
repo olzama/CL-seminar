@@ -1,8 +1,4 @@
 
-# Goals and Methods of Computational Linguistics
-
-A seminar held in Spring 2021 at University of Washington
-
 ### Contributors:
 
 Olga Zamaraeva, Julian Michael
