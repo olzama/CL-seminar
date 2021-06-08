@@ -1,5 +1,6 @@
 [Home](index.md)
-[Discussion]()
+
+[Discussion](https://github.com/olzama/CL-seminar/discussions)
 
 # (Partially) Annotated Bibliography
 
@@ -172,4 +173,5 @@ Haspelmath is talking about linguistics journals, and he is arguing that the cur
 * [Linguistic behaviour and the realistic testing of NLP systems](https://virtual.2020.emnlp.org/plenary_session_keynote_by_janet_pierrehumbert.html). Janet Pierrehumbert. EMNLP 2020 keynote speech.
 
 [Home](index.md)
-[Discussion]()
+
+[Discussion](https://github.com/olzama/CL-seminar/discussions)
