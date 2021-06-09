@@ -1,6 +1,6 @@
 [Home](index.md)
 
-[Discussion](https://github.com/olzama/CL-seminar/discussions)
+[Discussion](https://github.com/olzama/CL-seminar/discussions) (you'll need a GitHub account)
 
 # (Partially) Annotated Bibliography
 
