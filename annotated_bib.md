@@ -165,7 +165,7 @@ Haspelmath is talking about linguistics journals, and he is arguing that the cur
 
 * [The Formation of Soviet Research Institutes: A Combination of Revolutionary Innovation and International Borrowing
 ](https://journals.sagepub.com/doi/abs/10.1177/030631277500500303?journalCode=sssb) 
-    * A glimpse into a planned-economy system in which all funding for research as well as academic employment comes from the government, with its pros and cons. Another aspect of the system is that there is a large number of specialized institutions in which academics have the option to focus on research 100% (no teaching). Yet another aspect is that academic employment of some kind (starting from something like a postdoc) is much easier to find even in today's Russia which inherited much from the Soviet system (but the salaries are often unsustainable!).
+    * A glimpse into a planned-economy system in which all funding for research as well as academic employment comes from the government, with its pros and cons. Another aspect of the system is that there is a large number of specialized institutions in which academics have the option to focus on research 100% (no teaching obligations). 
 
 ### Module 6: The Future of CL
 * [On the gap between theoretical and computational linguistics](https://marcobaroni.org/publications/lectures/marco-eacl-2021-the-gap.pdf). Marco Baroni, EACL 2021 keynote speech.
