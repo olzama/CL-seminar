@@ -9,7 +9,7 @@ Emily Proch Ahn, Tsudoi Wada
 
 📚 [Partially annotated bibliography](annotated_bib.md)
 
-💡 [Discussion](https://github.com/olzama/CL-seminar/discussions)
+💡 [Discussion](https://github.com/olzama/CL-seminar/discussions) (you'll need a GitHub account)
 
 
 In Spring 2021, I declared a graduate seminar 🎓 as part of the "Problems in Linguistics" series at UW Linguistics. Three awesome ✨ graduate students enrolled, one computer science, one computational linguistics, and one linguistics student. Together, we had a lot of fun discussing the history 🏛️, the present 🕸️, and the future ❓ of the field of computational linguistics. One of the outcomes of the seminar was an [annotated bibliography](annotated_bib.md) 📚 which we would now like to share 🌐 with the world! 
